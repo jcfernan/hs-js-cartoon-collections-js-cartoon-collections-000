@@ -38,12 +38,12 @@ return "no cheese!";
 
 function wordsWithB (words){
   var array =[];
-  for (words = 0; i<words.length; i++){
+  for (i = 0; i<words.length; i++){
     if (words [i]. startsWith ('b')){
       array.push (words[i])}}
       
     return array;
   }
   var array =[]
-  for (planeteerCalls =0; i<planeteerCalls.length; i++)
+  for (i =0; i<planeteerCalls.length; i++)
   array.push (planeteerCalls [i].toUpperCase () + "!")
