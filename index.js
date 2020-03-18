@@ -36,3 +36,10 @@ for (var i=0; i<foods.length; i++){
 return "no cheese!";
 }
 
+function wordsWithB (words){
+  var array =[];
+  for (words = 0; i<words.length; i++){
+    if (words [i]. startsWith ('b')){
+      array.push (words[i])}
+      return array;
+  }}
