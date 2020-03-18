@@ -46,4 +46,4 @@ function wordsWithB (words){
   }
   var array =[]
   for (planeteerCalls =0; i<planeteerCalls.length; i++)
-  array.push (planeteerCalls [i].toUpperCase () + !)
+  array.push (planeteerCalls [i].toUpperCase () + "!")
